@@ -7,7 +7,7 @@
 body{
     width: 100vw;
     overflow-x: hidden;
-    background-color: #111111;
+    background-color: #5f5e5e;
 }
 .nav-container{
     margin-top: 2vh;
@@ -30,7 +30,7 @@ body{
 }
 
 .active-menu,.nav-menu-items:hover{
-    background-color: rgb(66, 115, 199);
+    background-color: rgb(15, 60, 138);
     border-radius: 25px;
     padding: 7px 15px;
 }
@@ -55,7 +55,7 @@ body{
 
 
 .panel-buttons > button{
-    background-color: #111111;
+    background-color: #696868;
     outline: none;
     border: none;
     width: 100%;
@@ -101,7 +101,7 @@ body{
     border-radius: 20px;
     margin: 5px 15px;
     padding: 1rem;
-    background-color: #1b1b1b;
+    background-color: #9b9a9a;
 }
 .card-header{
     width: 100%;
@@ -116,7 +116,7 @@ body{
 
 .price_change{
     padding: 5px 15px;
-    border : 2px solid lightgreen;
+    border : 2px solid rgb(26, 206, 197);
     border-radius: 25px;
     width: fit-content;
     margin-bottom: 10px;
@@ -125,7 +125,7 @@ body{
 
 .curret-price{
     padding: 1rem;
-    color: lightgreen;
+    color: rgb(21, 218, 224);
     margin-bottom: 10px;
 }
 
